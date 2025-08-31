@@ -10,7 +10,7 @@ javac -version
 cd TZ
 ```
 
-2. Собирите проект
+2. Соберите проект
 ```
 mvn clean package
 ```
